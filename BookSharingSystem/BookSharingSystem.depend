@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1561436967 source:e:\projects\booksharingsystem\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdio.h>
+	<iostream>
+
